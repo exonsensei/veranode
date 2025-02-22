@@ -61,7 +61,7 @@ const Hero = () => {
         
         <div className="hero-buttons flex flex-col sm:flex-row justify-center items-center gap-4">
           <motion.a
-            href="https://wa.me/905555555555"
+            href="https://wa.me/447478358893"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
