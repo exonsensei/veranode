@@ -22,7 +22,7 @@ const Header = () => {
   }, []);
 
   const menuItems = [
-    { title: 'My Services', href: '#services' },
+    { title: 'Services', href: '#services' },
     { title: 'Solutions', href: '#solutions' },
     { title: 'About Us', href: '#about' },
   ];
@@ -52,7 +52,7 @@ const Header = () => {
             </Link>
           ))}
           <a
-            href="https://wa.me/447478358893"
+            href="https://wa.me/905555555555"
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary hover:text-primary/80 transition-colors flex items-center gap-2"
@@ -97,7 +97,7 @@ const Header = () => {
                   </Link>
                 ))}
                 <a
-                  href="https://wa.me/447478358893"
+                  href="https://wa.me/905555555555"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 py-2 text-primary hover:bg-gray-100 transition-colors flex items-center gap-2"

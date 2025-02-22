@@ -41,7 +41,7 @@ const About = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="text-center">
-                <h3 className="text-4xl font-bold text-primary mb-2">15+</h3>
+                <h3 className="text-4xl font-bold text-primary mb-2">5+</h3>
                 <p className="text-accent">Years Experience</p>
               </div>
               <div className="text-center">
@@ -49,7 +49,7 @@ const About = () => {
                 <p className="text-accent">Expert Team</p>
               </div>
               <div className="text-center">
-                <h3 className="text-4xl font-bold text-primary mb-2">200+</h3>
+                <h3 className="text-4xl font-bold text-primary mb-2">800+</h3>
                 <p className="text-accent">Happy Clients</p>
               </div>
             </div>

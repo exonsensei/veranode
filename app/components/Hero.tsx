@@ -37,7 +37,7 @@ const Hero = () => {
   }, [isLoading]);
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-50 to-gray-100 mt-16">
+    <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-50 to-gray-100">
       <div className="absolute inset-0 bg-[url('/grid.svg')] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]" />
       
       <motion.div
@@ -47,10 +47,10 @@ const Hero = () => {
         className="container mx-auto px-4 text-center z-10"
       >
         <h1 className="hero-title mb-6">
-          <span className="block text-5xl md:text-7xl font-bold text-secondary leading-tight">
+          <span className="block text-4xl md:text-5xl lg:text-6xl font-bold text-secondary leading-tight">
             Digital Transformation &
           </span>
-          <span className="block text-5xl md:text-7xl font-bold text-primary leading-tight">
+          <span className="block text-4xl md:text-5xl lg:text-6xl font-bold text-primary leading-tight">
             Technology Solutions
           </span>
         </h1>
@@ -61,7 +61,7 @@ const Hero = () => {
         
         <div className="hero-buttons flex flex-col sm:flex-row justify-center items-center gap-4">
           <motion.a
-            href="https://wa.me/447478358893"
+            href="https://wa.me/905555555555"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
@@ -79,7 +79,7 @@ const Hero = () => {
             whileTap={{ scale: 0.95 }}
             className="btn-primary bg-secondary hover:bg-secondary/90 px-8"
           >
-            Our Services
+            Services
           </motion.a>
         </div>
       </motion.div>
