@@ -48,7 +48,7 @@ const Hero = () => {
       >
         <h1 className="hero-title mb-6">
           <span className="block text-4xl md:text-5xl lg:text-6xl font-bold text-secondary leading-tight">
-            Digital Transformation &
+            Digital Transformation
           </span>
           <span className="block text-4xl md:text-5xl lg:text-6xl font-bold text-primary leading-tight">
             Technology Solutions
