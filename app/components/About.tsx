@@ -36,7 +36,7 @@ const About = () => {
               Vera Digital is a company specialized in digital transformation and technology solutions, helping businesses succeed in the digital world.
             </p>
             <p className="text-accent mb-8">
-              By utilizing modern technologies and innovative approaches, we empower our clients' digital assets and help them gain a competitive advantage.
+              By utilizing modern technologies and innovative approaches, we empower our clients digital assets and help them gain a competitive advantage.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

@@ -36,12 +36,6 @@ const Hero = () => {
     }
   }, [isLoading]);
 
-  const backgroundElements = [
-    { left: '20%', top: '20%' },
-    { left: '60%', top: '40%' },
-    { left: '40%', top: '70%' },
-  ];
-
   return (
     <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-50 to-gray-100">
       <div className="absolute inset-0 bg-[url('/grid.svg')] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]" />
